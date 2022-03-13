@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansInterfaceBugRepro", "OrleansInterfaceBugRepro\OrleansInterfaceBugRepro.csproj", "{E566F6C6-F7E2-4100-B9F1-124704EC1B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E566F6C6-F7E2-4100-B9F1-124704EC1B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E566F6C6-F7E2-4100-B9F1-124704EC1B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E566F6C6-F7E2-4100-B9F1-124704EC1B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E566F6C6-F7E2-4100-B9F1-124704EC1B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36846773-18B6-478B-A6A1-897F9106CEFF}
+	EndGlobalSection
+EndGlobal
